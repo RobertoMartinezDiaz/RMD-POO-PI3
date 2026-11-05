@@ -1,6 +1,6 @@
 package Ejercicio2;
 
-public class Animal implements Volador, Nadador {
+public class Animal implements Volador_, Nadador_ {
     private String especie;
 
     public Animal(String especie) {
